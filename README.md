@@ -16,7 +16,7 @@ before you run this Project you want to install the same Libraries
 
 + you can commnet
 
-    " npm istall "
+    " npm install "
 
 note :
     - node js version : 16.18.0
