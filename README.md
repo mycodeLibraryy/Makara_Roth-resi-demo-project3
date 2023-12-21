@@ -14,7 +14,7 @@ Tamplate Name : Resi
 
 before you run this Project you want to install the same Libraries
 
-+ you can commnet
++ you can command
 
     " npm install "
 
